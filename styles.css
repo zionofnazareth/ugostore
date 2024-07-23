@@ -16,7 +16,7 @@ body {
     color:green;
     margin-top: -10px;
     font-size: 50px;
-    font-weight: 200px;
+    
     
 }
 
@@ -45,15 +45,15 @@ button {
     padding: 5px 12px;
     background-color: yellow;
 }
-.about-bg
+.about
 {
-	background: url('/images/dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg');
+	background: url('');
 	background-repeat: no-repeat;
 	background-size: 85%;
-  	background-position-x: 15%;
+  	background-position-x: 80%;
   	background-position-y: 80%;
 }
 #about 
 {
-	margin-top: 500px;
+	margin-bottom: -2000px;
 }
