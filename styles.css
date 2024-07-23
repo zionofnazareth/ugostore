@@ -6,7 +6,7 @@ p {
 body {
     background: url(./images/dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg);
     background-repeat: no-repeat;
-    height: 50vh;
+    height: 100vh;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -14,9 +14,9 @@ body {
 
 .container {
     color:green;
-    margin-top: -10px;
+    font-weight: 50px;
     font-size: 50px;
-    
+    margin-left: 10px;
     
 }
 
@@ -45,13 +45,10 @@ button {
     padding: 5px 12px;
     background-color: yellow;
 }
-.aboutus
-{
-	background: url('');
-	background-repeat: no-repeat;
-	background-size: 85%;
-  	background-position-x: 80%;
-  	background-position-y: 80%;
-    margin-bottom: 1000px;
-    font-size: 10px;
+.about{
+   margin-bottom:-2800px;
+   font-size: 50px;
+   font-weight: 50px;
+   text-align: center;
+   margin-left: 10px;
 }
