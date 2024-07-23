@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    color:yellow;
+    color:green;
     margin-top: 10px;
     
 }
@@ -53,5 +53,5 @@ button {
 }
 #about 
 {
-	margin-top: 1100px;
+	margin-top: 500px;
 }
