@@ -15,8 +15,8 @@ body {
 .container {
     color:white;
     font-weight: 10px;
-    font-size: 10px;
-    margin-left: 10px;
+    font-size: 70px;
+    margin-left: 70px;
     
 }
 
@@ -50,6 +50,10 @@ button {
    font-size: 30px;
    font-weight: 20px;
    
-   margin-right: 800px;
-   margin-left: 50px;
+   
+   margin-right: 900px;
+   margin-left: 10px;
+}
+.section-content-para{
+    margin-left: 0px;
 }
