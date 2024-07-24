@@ -16,7 +16,7 @@ body {
     color:white;
     font-weight: 10px;
     font-size: 40px;
-    margin-left: 40px;
+    margin-left: 5px;
     
 }
 
@@ -46,7 +46,7 @@ button {
     background-color: yellow;
 }
 .aboutus{
-   margin-bottom:750px;
+   margin-bottom:500px;
    font-size: 30px;
    font-weight: 20px;
    
