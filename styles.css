@@ -47,15 +47,16 @@ button {
     background-color: yellow;
 }
 .aboutus{
-   margin-bottom:100px;
+   margin-bottom:1000%;
    font-size: 20px;
    font-weight: 40px;
    color: green;
+   margin-top: 500px;
    
    
    
    margin-left: 10px;
 }
-.h1{
-    margin-left: 0px;
+.section-content-para{
+    margin-bottom: 2000px;
 }
