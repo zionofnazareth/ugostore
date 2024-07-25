@@ -70,4 +70,10 @@ button {
     font-size: 40px ;
     margin-top: -100px;
 }
-
+.text{
+    margin-left: 250px;
+    color: green;
+    margin-bottom: -100px;
+    font-size: 30px;
+   
+}
