@@ -105,3 +105,7 @@ button{
     font-size: 20px;
     margin-top: 10px;
 }
+.store{
+    align-items: center;
+    margin-left: 50px;
+}
