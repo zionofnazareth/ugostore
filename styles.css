@@ -1,5 +1,7 @@
 p {
-    color: green;
+    color: purple;
+    font-size: 28px;
+    font-weight: bolder;
     
 }
 
@@ -37,7 +39,7 @@ nav ul li {
     margin-top: 50px;
     align-items: center;
     color: blue;
-    margin-left: 50px;
+    margin-left: 5px;
 }
 
 button {
